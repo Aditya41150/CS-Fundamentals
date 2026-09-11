@@ -6,9 +6,9 @@ Use this page to track **interview readiness**, not just whether you have opened
 
 | Area | Status | Confidence | Next Action |
 |---|---|---:|---|
-| DSA | ⬜ Not Started | 0/5 | Start DSA foundations |
-| DBMS + SQL | ⬜ Not Started | 0/5 | Start DBMS fundamentals |
-| OOP | ⬜ Not Started | 0/5 | Start OOP basics |
+| DSA | 🟡 Done with time and space complexity | 3/5 | Start next topic |
+| DBMS + SQL | 🟡 Done with basic SELECT, WHERE,LIKE AND BETWEEN keywords| 4/5 | Start DBMS fundamentals |
+| OOP | 🟡 Done with basic class, objects definitions and distinctions | 3/5 | Start OOP basics |
 | Operating Systems | ⬜ Not Started | 0/5 | Start processes/threads |
 | Computer Networks | ⬜ Not Started | 0/5 | Start networking basics |
 | System Design | ⬜ Not Started | 0/5 | Start basic design concepts |
@@ -57,8 +57,8 @@ Use this page to track **interview readiness**, not just whether you have opened
 
 | Date | Topic | What Went Wrong | Fix |
 |---|---|---|---|
-| | | | |
-| | | | |
+|11-09-2026 |Big-O / logarithmic pattern |confused, understood wrong thing| revise |
+|11-09-2026 |Between in SQL |used where it should not be used. | practice|
 | | | | |
 
 ## Weekly Review
