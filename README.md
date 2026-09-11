@@ -1,4 +1,4 @@
-# CS Fundamentals — Adi's Interview Prep
+# CS Fundamentals — Aditya's Interview Prep
 
 A focused, interview-oriented version of CS Fundamentals for preparing for **fresher software-development roles**.
 
