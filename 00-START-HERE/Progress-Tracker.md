@@ -6,7 +6,7 @@ Use this page to track **interview readiness**, not just whether you have opened
 
 | Area | Status | Confidence | Next Action |
 |---|---|---:|---|
-| DSA | 🟡 Done with time and space complexity | 3/5 | Start next topic |
+| DSA | 🟡 Done with Arrays and Strings | 3/5 | Start Hashing |
 | DBMS + SQL | 🟡 Done with basic SELECT, WHERE,LIKE AND BETWEEN keywords| 4/5 | Start DBMS fundamentals |
 | OOP | 🟡 Done with basic class, objects definitions and distinctions | 3/5 | Start OOP basics |
 | Operating Systems | ⬜ Not Started | 0/5 | Start processes/threads |
@@ -26,7 +26,7 @@ Use this page to track **interview readiness**, not just whether you have opened
 
 ## DSA Patterns
 
-- [ ] Arrays & strings
+- [x] Arrays & strings
 - [ ] Hashing
 - [ ] Two pointers
 - [ ] Sliding window
@@ -59,7 +59,7 @@ Use this page to track **interview readiness**, not just whether you have opened
 |---|---|---|---|
 |11-09-2026 |Big-O / logarithmic pattern |confused, understood wrong thing| revise |
 |11-09-2026 |Between in SQL |used where it should not be used. | practice|
-| | | | |
+| 15-09-2026 |Q: why array elements should be homogenous ? | Didn't knew the reason  |learnt about it, read some articles and other resources. |
 
 ## Weekly Review
 
