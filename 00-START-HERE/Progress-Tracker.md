@@ -6,7 +6,7 @@ Use this page to track **interview readiness**, not just whether you have opened
 
 | Area | Status | Confidence | Next Action |
 |---|---|---:|---|
-| DSA | 🟡 Done with Arrays and Strings | 3/5 | Start Hashing |
+| DSA | 🟢 Done with Hashing(18/09/26) | 4/5 | Start Sorting |
 | DBMS + SQL | 🟡 Done with basic SELECT, WHERE,LIKE AND BETWEEN keywords| 4/5 | Start DBMS fundamentals |
 | OOP | 🟡 Done with basic class, objects definitions and distinctions | 3/5 | Start OOP basics |
 | Operating Systems | ⬜ Not Started | 0/5 | Start processes/threads |
@@ -27,7 +27,7 @@ Use this page to track **interview readiness**, not just whether you have opened
 ## DSA Patterns
 
 - [x] Arrays & strings
-- [ ] Hashing
+- [X] Hashing
 - [ ] Two pointers
 - [ ] Sliding window
 - [ ] Binary search
@@ -57,9 +57,12 @@ Use this page to track **interview readiness**, not just whether you have opened
 
 | Date | Topic | What Went Wrong | Fix |
 |---|---|---|---|
-|11-09-2026 |Big-O / logarithmic pattern |confused, understood wrong thing| revise |
-|11-09-2026 |Between in SQL |used where it should not be used. | practice|
-| 15-09-2026 |Q: why array elements should be homogenous ? | Didn't knew the reason  |learnt about it, read some articles and other resources. |
+|11-09-2026   |Big-O / logarithmic pattern |confused, understood wrong thing| revise |
+|11-09-2026   |Between in SQL |used where it should not be used. | practice|
+|15-09-2026  |Q: why array elements should be homogenous ? | Didn't knew the reason  |learnt about it, read some articles and other resources. |
+|18/09/26  |Group Anagrams |Was not able to solve the problem without hint. | Revise after 1 week again. |
+|  | | | |
+| | | |
 
 ## Weekly Review
 
