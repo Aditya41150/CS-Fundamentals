@@ -8,7 +8,7 @@ Use this page to track **interview readiness**, not just whether you have opened
 |---|---|---:|---|
 | DSA | 🟢 Done with Hashing(18/09/26) | 4/5 | Start Sorting |
 | DBMS + SQL | 🟢 DBMS fundamentals Cleared| 4/5 |   |
-| OOP | 🟡 Done with basic class, objects definitions and distinctions | 3/5 | Start OOP basics |
+| OOP | 🟢 Done with Encapsulation (Mock interview done) | 3/5 | Start other Core principles. |
 | Operating Systems | ⬜ Not Started | 0/5 | Start processes/threads |
 | Computer Networks | ⬜ Not Started | 0/5 | Start networking basics |
 | System Design | ⬜ Not Started | 0/5 | Start basic design concepts |
@@ -60,8 +60,8 @@ Use this page to track **interview readiness**, not just whether you have opened
 |11-09-2026   |Big-O / logarithmic pattern |confused, understood wrong thing| revise |
 |11-09-2026   |Between in SQL |used where it should not be used. | practice|
 |15-09-2026  |Q: why array elements should be homogenous ? | Didn't knew the reason  |learnt about it, read some articles and other resources. |
-|18/09/26  |Group Anagrams |Was not able to solve the problem without hint. | Revise after 1 week again. |
-|  | | | |
+|18/09/26  |Group Anagrams |Was not able to solve the problem without hint. | Revise after 1 week again.(25/09/26) |
+|21/09/26  | Q: Abstraction vs Encapsulation |Little Bit Confused. | Revise |
 | | | |
 
 ## Weekly Review
