@@ -7,7 +7,7 @@ Use this page to track **interview readiness**, not just whether you have opened
 | Area | Status | Confidence | Next Action |
 |---|---|---:|---|
 | DSA | 🟢 Done with Hashing(18/09/26) | 4/5 | Start Sorting |
-| DBMS + SQL | 🟡 Done with basic SELECT, WHERE,LIKE AND BETWEEN keywords| 4/5 | Start DBMS fundamentals |
+| DBMS + SQL | 🟢 DBMS fundamentals Cleared| 4/5 |   |
 | OOP | 🟡 Done with basic class, objects definitions and distinctions | 3/5 | Start OOP basics |
 | Operating Systems | ⬜ Not Started | 0/5 | Start processes/threads |
 | Computer Networks | ⬜ Not Started | 0/5 | Start networking basics |
